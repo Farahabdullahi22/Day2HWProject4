@@ -7,5 +7,10 @@ public class Stash4 {
 		System.out.println("Today is fun day with stash..");
 
 	}
+	
+	public void divide() {
+		
+		System.out.println("2/4");
+	}
 
 }
